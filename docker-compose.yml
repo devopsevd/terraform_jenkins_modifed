@@ -2,7 +2,7 @@ version: '2'
 
 services:
  jenkins:
-  image: devopsevd/jenkins:v20210427
+  image: devopsevd/jenkins:v20210428
   ports:
     - "8080:8080"
     - "50000:50000"
